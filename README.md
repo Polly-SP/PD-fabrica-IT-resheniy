@@ -14,3 +14,6 @@ https://www.figma.com/file/A9bAWgJHNZPTi4HmWpZWZ6/APM-systems?node-id=0%3A1
 
 3 Общий Google Disk - 
 https://drive.google.com/drive/folders/1raUkDPKelQe9ucjlJhlbJaBDKF9wbpYB?usp=sharing
+
+4 Сайт проекта - 
+http://pd2020-fabrika-it-resheny.std-671.ist.mospolytech.ru/
